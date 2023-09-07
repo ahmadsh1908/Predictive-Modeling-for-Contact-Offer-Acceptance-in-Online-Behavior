@@ -1,0 +1,28 @@
+Conversion Rate of Customers:
+The conversion rate of customers who accepted the offer is [Conversion Rate of Customers]%.
+This rate indicates the percentage of visitors who were interested in a contact offer.
+
+Number of Displays to Accept:
+On average, customers required [Mean number of displays] displays before accepting an offer.
+The standard deviation for the number of displays required is [Standard deviation for number of displays], indicating the spread of results.
+
+Device Type Effect:
+A significant percentage of customers accepting the offer use their desktop.
+There might be a pattern or trend associated with device type, although it's not explicitly mentioned.
+
+Response Promise Effect:
+People accepting the offer usually have a response promise of 1 minute, suggesting they need immediate support to avoid losing interest.
+
+Display Reason Effect:
+Certain display reasons (e.g., id2) may have a higher chance of leading to offer acceptance.
+Further investigation into display reasons is recommended for deeper insights.
+
+Time to Display Offer:
+Most customers accept the offer within [Time To Display Actual] seconds, usually within the first few seconds of their session.
+This indicates a need for immediate assistance.
+
+Total Visits:
+Customers who accept the offer often visit the website for the first time, suggesting they may need more assistance as newcomers.
+
+
+These findings provide valuable insights into customer behavior and factors influencing contact offer acceptance.
