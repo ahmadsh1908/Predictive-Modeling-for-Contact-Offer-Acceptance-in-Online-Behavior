@@ -1,4 +1,4 @@
-# Predictive-Modeling-for-Contact-Offer-Acceptance-in-Online-Behavior
+### Predictive-Modeling-for-Contact-Offer-Acceptance-in-Online-Behavior
 
 ## Introduction
 In this project, we work with online data to gain insights into visitor intentions and optimize website purchases to maximize sales. Our goal is to personalize the contact options on the website by predicting whether a visitor will accept or reject a contact offer. The dataset contains various features related to visitor behavior and whether they accepted or rejected contact offers.
